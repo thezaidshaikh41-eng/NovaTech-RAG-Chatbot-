@@ -9,7 +9,7 @@ Original file is located at
 
 import zipfile
 
-with zipfile.ZipFile("novatech_dataset (1).zip", "r") as zip_ref:
+with zipfile.ZipFile("data/company_data.txt", "r") as zip_ref:
     zip_ref.extractall("data")
 
 import os
