@@ -1,7 +1,10 @@
 streamlit
+groq
 chromadb
 sentence-transformers
 langchain
+langchain-community
 langchain-text-splitters
-openai
-torch
+pypdf
+python-dotenv
+faiss-cpu
