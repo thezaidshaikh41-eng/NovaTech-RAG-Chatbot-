@@ -1,9 +1,0 @@
-Return Procedure
-
-1. Log into your account.
-2. Open Order History.
-3. Select the order.
-4. Choose Return Item.
-5. Print the prepaid label.
-6. Pack the item securely.
-7. Drop it off with the approved courier.
