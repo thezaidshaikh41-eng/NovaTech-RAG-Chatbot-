@@ -1,0 +1,12 @@
+Troubleshooting
+
+Laptop won't turn on:
+- Charge for 30 minutes.
+- Hold the power button for 15 seconds.
+- Disconnect external devices.
+- Contact support if the issue persists.
+
+Phone battery drains quickly:
+- Reduce brightness.
+- Enable battery saver.
+- Close background apps.
